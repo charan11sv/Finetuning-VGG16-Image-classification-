@@ -1,1 +1,1 @@
-# Finetuning-VGG16-Image-classification-
+Finetuning-VGG16-Image-classification - We fine tuned vgg16 for our pets-breed dataset and applied for classification. we got improved accuracy of around 81% despite having very less processing power to carry out a full fledged finetuning on a large image dataset.
